@@ -1,6 +1,7 @@
 *{
   padding: 0;
   margin: 0;
+  font-family: 'Montserrat', sans-serif;
 }
 nav {
   top: 0;
@@ -194,4 +195,17 @@ input{
   display: inline-block;
   width: 50%;
   height: 430px;
+}
+.footer{
+  background: #333447;
+  height: 250px;
+}
+.footer1,.footer2,.footer3{
+  height: 200px;
+  width: 20%;
+  display: inline-block;
+}
+.footer4{
+  margin-left: 45%;
+  
 }
